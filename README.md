@@ -3,7 +3,7 @@ File Repository for *REDCap Recap*
 
 Welcome to the file repository for the OUHSC's *REDCap Recap*.  In the spring of 2018, our regular meeting time remains 10:30-11:30am on the first Tuesday of each month; this follows the [Statistical Computing Users Group (SCUG)](https://github.com/OuhscBbmc/StatisticalComputing) meeting.
 
-Our goal is to qqq.
+Our goal is to expose interested users to the features and use cases for REDCap.
 
 The code and material from previous presentations in the user group  (formerly called the SAS/R User Group) can be accessed here:  [2018](./2018-presentations/).
 
