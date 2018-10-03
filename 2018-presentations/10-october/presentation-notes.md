@@ -14,4 +14,4 @@ Before access can be granted, please complete the following steps:
 1. Login to REDCap using your OUHSC username and password.
 1. Complete the user information form that appears after logging in.
 1. REDCap will automatically e-mail a verification link to the e-mail address you provided in step 2.  Click on that link.
-1. You are now able to user REDCap and access to the demo project can be granted.
+1. E-mail Thomas and let him know so that he can add you to the project.
