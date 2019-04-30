@@ -13,8 +13,19 @@ The group's steering committee is Thomas Wilson and Will Beasley.
 
 We meet in the East Boardroom of the Samis Education Center in Children's Hospital.  (If you don't see us in the East Boardroom, walk 50 yds to your right and check if we've been moved to the West Boardroom.)  Driving and parking directions are [here](https://raw.github.com/OuhscBbmc/StatisticalComputing/master/Documents/Parking.png).  Once inside the main entrance (which is Level 2), head slightly to the right and take an elevator down to Level 1.  Exit the elevator and turn left; pass through the Samis doors.  The [East Board Room](https://github.com/OuhscBbmc/StatisticalComputing/blob/master/Documents/SamisEdCenterMap.pdf) will be the first room you see.  Please join us.  Electrical outlets and OUHSC Wi-Fi are available.
 
+## 2019 Presentations
+
+|        |                    |
+| ------ | ------------------ |
+| Mar<br/>5| Using the REDCap Shared Instrument Library<br/>by Thomas Wilson, Dept of Pediatrics, Biomedical and Behavioral Methodology Core ([BBMC](http://ouhsc.edu/BBMC/)). |
+| Apr<br/>4| Using the REDCap Data Dictionary<br/>by Thomas Wilson, Dept of Pediatrics, Biomedical and Behavioral Methodology Core ([BBMC](http://ouhsc.edu/BBMC/)). |
+
+
 ## 2018 Presentations
 
 |        |                    |
 | ------ | ------------------ |
 | Oct<br/>1| Introduction to REDCap Surveys<br/>by Thomas Wilson, Dept of Pediatrics, Biomedical and Behavioral Methodology Core ([BBMC](http://ouhsc.edu/BBMC/)). |
+| Nov<br/>6| REDCap Randomization Module<br/>by Thomas Wilson, Dept of Pediatrics, Biomedical and Behavioral Methodology Core ([BBMC](http://ouhsc.edu/BBMC/)). |
+| Dec<br/>4| Use of Action Tags<br/>by Thomas Wilson, Dept of Pediatrics, Biomedical and Behavioral Methodology Core ([BBMC](http://ouhsc.edu/BBMC/)). |
+
